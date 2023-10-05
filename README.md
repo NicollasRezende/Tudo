@@ -1,4 +1,4 @@
-# Aqui Voce vai encontrar tudo que eu realizei das coisas mais simples as maiores
+# Aqui Voce vai encontrar tudo que eu realizei das coisas mais simples as mais elaboradas
 
 # ***______________________***
 
