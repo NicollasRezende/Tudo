@@ -14,6 +14,10 @@
 **Um site que eu desenvolvi**
 - ***https://github.com/NicollasRezende/site-de-empresa-template***
 
+### Calc usando Pyside6
+**Concluido**
+- https://github.com/NicollasRezende/calculadoraPython
+
 # ***______________________***
 
 ## Docs que escrevi: 
