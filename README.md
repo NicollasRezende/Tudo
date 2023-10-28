@@ -5,7 +5,7 @@
 ## Projetos em que trabalhei: 
 
 ### Projeto do Bot de Vendas
-**Closed**
+**Beta finalizada**
 - https://github.com/NicollasRezende/Projeto-BOT-de-Vendas
 
 
