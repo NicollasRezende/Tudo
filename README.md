@@ -10,9 +10,9 @@
 
 
 
-### Um Pouco de Front-End(Nao levo jeito pra coisa:/)
+### Um Pouco de Front-End
 **Um site que eu desenvolvi**
-- ***https://github.com/NicollasRezende/site-de-empresa-template***
+- ***https://nicollasrezende.github.io/toolshare/***
 
 ### Calc usando Pyside6
 **Concluido**
