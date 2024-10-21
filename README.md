@@ -14,6 +14,7 @@
 ### Um Pouco de Front-End
 **Um site que eu desenvolvi**
 - ***https://nicollasrezende.github.io/toolshare/***
+- ***https://nicollasrezende.github.io/Pokedex/***
 
 ### Calc usando Pyside6
 **Concluido**
