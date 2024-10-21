@@ -7,6 +7,7 @@
 ### Projeto do Bot de Vendas
 **Beta finalizada**
 - https://github.com/NicollasRezende/Projeto-BOT-de-Vendas
+- https://github.com/NicollasRezende/botvendaswhats
 
 
 
