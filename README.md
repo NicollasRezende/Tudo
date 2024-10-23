@@ -4,21 +4,7 @@
 
 ## Projetos em que trabalhei: 
 
-### Projeto do Bot de Vendas
-**Beta finalizada**
-- https://github.com/NicollasRezende/Projeto-BOT-de-Vendas
-- https://github.com/NicollasRezende/botvendaswhats
-
-
-
-### Um Pouco de Front-End
-**Um site que eu desenvolvi**
-- ***https://nicollasrezende.github.io/toolshare/***
-- ***https://nicollasrezende.github.io/Pokedex/***
-
-### Calc usando Pyside6
-**Concluido**
-- https://github.com/NicollasRezende/calculadoraPython
+###Quando eu terminar mais alguns decentes eu coloco aqui
 
 # ***______________________***
 
