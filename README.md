@@ -6,15 +6,15 @@
 
 ***Projeto WPP bot de vendas auto***
 
-***https://github.com/NicollasRezende/botvendaswhats***
+- ***https://github.com/NicollasRezende/botvendaswhats***
 
 ***So um site aleatorio(estava aprendendo Front-End)***
 
-***https://github.com/NicollasRezende/toolshare***
-***https://github.com/NicollasRezende/Pokedex***
+- ***https://github.com/NicollasRezende/toolshare***
+- ***https://github.com/NicollasRezende/Pokedex***
 
 ***SGI-WEB***
-***[Link em breve]***
+- ***[Link em breve]***
 
 # ***______________________***
 
