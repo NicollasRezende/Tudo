@@ -8,13 +8,13 @@
 
 - ***https://github.com/NicollasRezende/botvendaswhats***
 
+***SGI-WEB***
+- ***https://github.com/NicollasRezende/SGI-WEB***
+
 ***So um site aleatorio(estava aprendendo Front-End)***
 
 - ***https://github.com/NicollasRezende/toolshare***
 - ***https://github.com/NicollasRezende/Pokedex***
-
-***SGI-WEB***
-- ***[Link em breve]***
 
 # ***______________________***
 
