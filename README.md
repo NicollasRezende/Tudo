@@ -6,22 +6,25 @@ Aqui você vai encontrar tudo que eu realizei, desde os projetos mais simples at
 
 ## Projetos em que Trabalhei
 
-### [WPP Bot de Vendas Auto](https://github.com/NicollasRezende/botvendaswhats)
+### [WPP Bot de Vendas Auto](https://github.com/NicollasRezende/botvendaswhats/tree/main)
 Uma solução automatizada para vendas via WhatsApp.
 
-### [SGI-WEB](https://github.com/NicollasRezende/SGI-WEB)
+### [SGI-WEB](https://github.com/NicollasRezende/SGI-WEB/tree/main)
 Sistema de Gerenciamento de Inventário.
 
-### [Docker Flask](https://github.com/NicollasRezende/Docker-Flask)
+### [Docker Flask](https://github.com/NicollasRezende/Docker-Flask/tree/main)
 Containerização de aplicações Flask utilizando Docker.
 
-### [PDF Generator](https://github.com/NicollasRezende/PDF-generator)
+### [PDF Generator](https://github.com/NicollasRezende/PDF-generator/tree/main)
 Um gerador de PDF simples para diversas aplicações.
 
-### [Site Aleatório (Aprendendo Front-End)](https://github.com/NicollasRezende/toolshare)
+### [PDF Generator](https://github.com/NicollasRezende/DJANGO-COMO-USAR/tree/main)
+Um gerador de PDF simples para diversas aplicações.
+
+### [Site Aleatório (Aprendendo Front-End)](https://github.com/NicollasRezende/toolshare/tree/main)
 Um projeto onde explorei o desenvolvimento front-end.
 
-### [Pokedex](https://github.com/NicollasRezende/Pokedex)
+### [Pokedex](https://github.com/NicollasRezende/Pokedex/tree/main)
 Uma aplicação para consultar Pokémon, desenvolvida como um projeto de aprendizado.
 
 ---
