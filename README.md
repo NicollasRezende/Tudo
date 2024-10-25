@@ -18,6 +18,9 @@ Containerização de aplicações Flask utilizando Docker.
 ### [PDF Generator](https://github.com/NicollasRezende/PDF-generator/tree/main)
 Um gerador de PDF simples para diversas aplicações.
 
+### [Numpy Jogo de Conways](https://github.com/NicollasRezende/numpy-jogo-de-conways/tree/main)
+Um gerador de PDF simples para diversas aplicações.
+
 ### [Como Usar Django](https://github.com/NicollasRezende/DJANGO-COMO-USAR/tree/main)
 Um Doc que simplifica a utilização de Django.
 
@@ -25,7 +28,7 @@ Um Doc que simplifica a utilização de Django.
 Um projeto onde explorei o desenvolvimento front-end.
 
 ### [Pokedex](https://github.com/NicollasRezende/Pokedex/tree/main)
-Uma aplicação para consultar Pokémon, desenvolvida como um projeto de aprendizado.
+Uma aplicação para consultar Pokémon, meu primeiro projeto com front-end.
 
 ---
 
