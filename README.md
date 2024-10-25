@@ -18,8 +18,8 @@ Containerização de aplicações Flask utilizando Docker.
 ### [PDF Generator](https://github.com/NicollasRezende/PDF-generator/tree/main)
 Um gerador de PDF simples para diversas aplicações.
 
-### [PDF Generator](https://github.com/NicollasRezende/DJANGO-COMO-USAR/tree/main)
-Um gerador de PDF simples para diversas aplicações.
+### [Como Usar Django](https://github.com/NicollasRezende/DJANGO-COMO-USAR/tree/main)
+Um Doc que simplifica a utilização de Django.
 
 ### [Site Aleatório (Aprendendo Front-End)](https://github.com/NicollasRezende/toolshare/tree/main)
 Um projeto onde explorei o desenvolvimento front-end.
