@@ -27,6 +27,9 @@ Um Doc que simplifica a utilização de Django.
 ### [Site Aleatório (Aprendendo Front-End)](https://github.com/NicollasRezende/toolshare/tree/main)
 Um projeto onde explorei o desenvolvimento front-end.
 
+### [Calculadora de calorias (Aprendendo Front-End)](https://github.com/NicollasRezende/calcular-calorias)
+Um projeto onde explorei o desenvolvimento front-end.
+
 ### [Pokedex](https://github.com/NicollasRezende/Pokedex/tree/main)
 Uma aplicação para consultar Pokémon, meu primeiro projeto com front-end.
 
