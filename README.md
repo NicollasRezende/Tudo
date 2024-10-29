@@ -22,7 +22,7 @@ Containerização de aplicações Flask utilizando Docker.
 Um gerador de PDF simples para diversas aplicações.
 
 ### [Numpy Jogo de Conways](https://github.com/NicollasRezende/numpy-jogo-de-conways/tree/main)
-Um gerador de PDF simples para diversas aplicações.
+Jogo de Conways usando biblioteca NumPy.
 
 ### [Como Usar Django](https://github.com/NicollasRezende/DJANGO-COMO-USAR/tree/main)
 Um Doc que simplifica a utilização de Django.
