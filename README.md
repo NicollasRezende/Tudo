@@ -12,6 +12,9 @@ Uma solução automatizada para vendas via WhatsApp.
 ### [SGI-WEB](https://github.com/NicollasRezende/SGI-WEB/tree/main)
 Sistema de Gerenciamento de Inventário.
 
+### [IA-RESUM](https://github.com/NicollasRezende/AI-VIDEO-RESUM/tree/main)
+Bot de resumo de videos.
+
 ### [Docker Flask](https://github.com/NicollasRezende/Docker-Flask/tree/main)
 Containerização de aplicações Flask utilizando Docker.
 
