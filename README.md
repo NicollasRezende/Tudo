@@ -28,13 +28,13 @@ Jogo de Conways usando biblioteca NumPy.
 Um Doc que simplifica a utilização de Django.
 
 ### [Site Aleatório (Aprendendo Front-End)](https://github.com/NicollasRezende/toolshare/tree/main)
-Um projeto onde explorei o desenvolvimento front-end.
+Um dos meus primeiros Sites.
 
 ### [Calculadora de calorias (Aprendendo Front-End)](https://github.com/NicollasRezende/calcular-calorias)
-Um projeto onde explorei o desenvolvimento front-end.
+Um projeto feito para um grupo de amigos.
 
 ### [Pokedex](https://github.com/NicollasRezende/Pokedex/tree/main)
-Uma aplicação para consultar Pokémon, meu primeiro projeto com front-end.
+Uma aplicação para consultar Pokémons, meu primeiro projeto com front-end usando APIs.
 
 ---
 
