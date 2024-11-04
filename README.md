@@ -12,6 +12,9 @@ Uma solução automatizada para vendas via WhatsApp.
 ### [SGI-WEB](https://github.com/NicollasRezende/SGI-WEB/tree/main)
 Sistema de Gerenciamento de Inventário.
 
+### [INTEGRAÇÂO STRYPE](https://github.com/NicollasRezende/integracao-strype/tree/main)
+Integração com API de pagamento da Strype.
+
 ### [IA-RESUM](https://github.com/NicollasRezende/AI-VIDEO-RESUM/tree/main)
 Bot de resumo de videos.
 
