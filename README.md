@@ -6,37 +6,40 @@ Aqui você vai encontrar tudo que eu realizei, desde os projetos mais simples at
 
 ## Projetos em que Trabalhei
 
-### [WPP Bot de Vendas Auto](https://github.com/NicollasRezende/botvendaswhats/tree/main)
+### [WPP Bot de Vendas Auto](https://github.com/NicollasRezende/botvendaswhats)
 Uma solução automatizada para vendas via WhatsApp.
 
-### [SGI-WEB](https://github.com/NicollasRezende/SGI-WEB/tree/main)
+### [SGI-WEB](https://github.com/NicollasRezende/SGI-WEB)
 Sistema de Gerenciamento de Inventário.
 
-### [INTEGRAÇÂO STRYPE](https://github.com/NicollasRezende/integracao-strype/tree/main)
+### [INTEGRAÇÂO STRYPE](https://github.com/NicollasRezende/integracao-strype)
 Integração com API de pagamento da Strype.
 
-### [IA-RESUM](https://github.com/NicollasRezende/AI-VIDEO-RESUM/tree/main)
+### [IA-RESUM](https://github.com/NicollasRezende/AI-VIDEO-RESUM)
 Bot de resumo de videos.
 
-### [Docker Flask](https://github.com/NicollasRezende/Docker-Flask/tree/main)
+### [Docker Flask](https://github.com/NicollasRezende/Docker-Flask)
 Containerização de aplicações Flask utilizando Docker.
 
-### [PDF Generator](https://github.com/NicollasRezende/PDF-generator/tree/main)
+### [PDF Generator](https://github.com/NicollasRezende/PDF-generator)
 Um gerador de PDF simples para diversas aplicações.
 
-### [Numpy Jogo de Conways](https://github.com/NicollasRezende/numpy-jogo-de-conways/tree/main)
+### [Numpy Jogo de Conways](https://github.com/NicollasRezende/numpy-jogo-de-conways)
 Jogo de Conways usando biblioteca NumPy.
 
-### [Como Usar Django](https://github.com/NicollasRezende/DJANGO-COMO-USAR/tree/main)
+### [Como Usar Django](https://github.com/NicollasRezende/DJANGO-COMO-USAR)
 Um Doc que simplifica a utilização de Django.
 
-### [Site Aleatório (Aprendendo Front-End)](https://github.com/NicollasRezende/toolshare/tree/main)
+### [Site loja de ferramentas (Loja de ferramentas)](https://github.com/NicollasRezende/loja-ferramentas)
+Um site de uma loja de ferramentas ficticia.
+
+### [Site Aleatório (Aprendendo Front-End)](https://github.com/NicollasRezende/toolshare)
 Um dos meus primeiros Sites.
 
 ### [Calculadora de calorias (Aprendendo Front-End)](https://github.com/NicollasRezende/calcular-calorias)
 Um projeto feito para um grupo de amigos.
 
-### [Pokedex](https://github.com/NicollasRezende/Pokedex/tree/main)
+### [Pokedex](https://github.com/NicollasRezende/Pokedex)
 Uma aplicação para consultar Pokémons, meu primeiro projeto com front-end usando APIs.
 
 ---
