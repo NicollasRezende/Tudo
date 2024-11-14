@@ -18,7 +18,10 @@ Integração com API de pagamento da Strype.
 ### [IA-RESUM](https://github.com/NicollasRezende/AI-VIDEO-RESUM)
 Bot de resumo de videos.
 
-### [Docker Flask](https://github.com/NicollasRezende/Docker-Flask)
+### [REACT](https://github.com/NicollasRezende/AI-VIDEO-RESUM)
+Projeto usando React.
+
+### [Docker Flask](https://github.com/NicollasRezende/REACT)
 Containerização de aplicações Flask utilizando Docker.
 
 ### [PDF Generator](https://github.com/NicollasRezende/PDF-generator)
@@ -29,6 +32,9 @@ Jogo de Conways usando biblioteca NumPy.
 
 ### [Como Usar Django](https://github.com/NicollasRezende/DJANGO-COMO-USAR)
 Um Doc que simplifica a utilização de Django.
+
+### [Zion](https://github.com/NicollasRezende/ziontecnologia)
+Site da empresa Zion Tecnologia.
 
 ### [Site loja de ferramentas (Loja de ferramentas)](https://github.com/NicollasRezende/loja-ferramentas)
 Um site de uma loja de ferramentas ficticia.
