@@ -18,7 +18,7 @@ Integração com API de pagamento da Strype.
 ### [IA-RESUM](https://github.com/NicollasRezende/AI-VIDEO-RESUM)
 Bot de resumo de videos.
 
-### [REACT](https://github.com/NicollasRezende/AI-VIDEO-RESUM)
+### [REACT](https://github.com/NicollasRezende/REACT)
 Projeto usando React.
 
 ### [Docker Flask](https://github.com/NicollasRezende/REACT)
