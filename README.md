@@ -9,9 +9,6 @@ Aqui você vai encontrar tudo que eu realizei, desde os projetos mais simples at
 ### [WPP Bot de Vendas Auto](https://github.com/NicollasRezende/botvendaswhats)
 Uma solução automatizada para vendas via WhatsApp.
 
-### [SGI-WEB](https://github.com/NicollasRezende/SGI-WEB)
-Sistema de Gerenciamento de Inventário.
-
 ### [INTEGRAÇÂO STRYPE](https://github.com/NicollasRezende/integracao-strype)
 Integração com API de pagamento da Strype.
 
@@ -38,6 +35,9 @@ Site de uma startup ficticia.
 
 ### [Zion](https://github.com/NicollasRezende/ziontecnologia)
 Site da empresa Zion Tecnologia.
+
+### [SGI-WEB](https://github.com/NicollasRezende/SGI-WEB)
+Sistema de Gerenciamento de Inventário.
 
 ### [Site loja de ferramentas (Loja de ferramentas)](https://github.com/NicollasRezende/loja-ferramentas)
 Um site de uma loja de ferramentas ficticia.
