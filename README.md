@@ -27,6 +27,9 @@ Um gerador de PDF simples para diversas aplicações.
 ### [Numpy Jogo de Conways](https://github.com/NicollasRezende/numpy-jogo-de-conways)
 Jogo de Conways usando biblioteca NumPy.
 
+### [Rpg com pytohn](https://github.com/https://github.com/NicollasRezende/rpg-game)
+Um jogo de RPG por texto desenvolvido em Python, com sistemas de combate, inventário, missões e exploração de mapas.
+
 ### [Como Usar Django](https://github.com/NicollasRezende/DJANGO-COMO-USAR)
 Um Doc que simplifica a utilização de Django.
 
