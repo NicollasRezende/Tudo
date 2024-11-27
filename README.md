@@ -12,6 +12,9 @@ Uma solução automatizada para vendas via WhatsApp.
 ### [INTEGRAÇÂO STRYPE](https://github.com/NicollasRezende/integracao-strype)
 Integração com API de pagamento da Strype.
 
+### [Gerenciado de Finanças](https://github.com/NicollasRezende/gerenciador-financas)
+Um gerenciador de finanças feito com React.
+
 ### [IA-RESUM](https://github.com/NicollasRezende/AI-VIDEO-RESUM)
 Bot de resumo de videos.
 
