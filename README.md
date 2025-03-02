@@ -15,6 +15,15 @@ Integração com API de pagamento da Strype.
 ### [Gerenciado de Finanças](https://github.com/NicollasRezende/gerenciador-financas)
 Um gerenciador de finanças feito com React.
 
+### [Liferay-URL-Extracttor](https://github.com/NicollasRezende/Liferay-URL-Extractor)
+Um extrator de url para sites liferay.
+
+### [IA-CHAT](https://github.com/NicollasRezende/IA-CHAT)
+Chat ia integrado com terminal.
+
+### [RPG-GAME](https://github.com/NicollasRezende/rpg_game)
+Um prototipo de um jogo, codigo escalavel com mecanicas bem definidas.
+
 ### [IA-RESUM](https://github.com/NicollasRezende/AI-VIDEO-RESUM)
 Bot de resumo de videos.
 
@@ -54,8 +63,6 @@ Um dos meus primeiros Sites.
 ### [Calculadora de calorias (Aprendendo Front-End)](https://github.com/NicollasRezende/calcular-calorias)
 Um projeto feito para um grupo de amigos.
 
-### [Pokedex](https://github.com/NicollasRezende/Pokedex)
-Uma aplicação para consultar Pokémons, meu primeiro projeto com front-end usando APIs.
 
 ---
 
