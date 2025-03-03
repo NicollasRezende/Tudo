@@ -6,7 +6,7 @@ Aqui você vai encontrar tudo que eu realizei, desde os projetos mais simples at
 
 ## Projetos em que Trabalhei
 
-### [WPP Bot de Vendas Auto](https://github.com/NicollasRezende/botvendaswhats)
+### [WPP Bot AUTO](https://github.com/NicollasRezende/wpp-bot)
 Uma solução automatizada para vendas via WhatsApp.
 
 ### [INTEGRAÇÂO STRYPE](https://github.com/NicollasRezende/integracao-strype)
